@@ -1,0 +1,22 @@
+.wrapper {
+  background-color: #5B7C9A;
+}
+
+.header {
+  background-color: #475E7399;
+  color: #333333;
+}
+
+.body {
+}
+
+.nav {
+  float: left;
+  allign: center;
+}
+
+.logo {
+  width: 200px;
+  height: 200px;
+  float: left;
+}
