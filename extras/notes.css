@@ -1,1 +1,21 @@
+html {
+  color: 333333;
+}
 
+.wrapper {
+  background-color: #5B7C9A;
+  width: 100%;
+  height: 100%;
+}
+
+.sideBody {
+  align: center;
+  float: left;
+  height: 100%;
+  width: 200px;
+}
+
+.mainBody {
+  height: 100%;
+  left-margin: 200px;
+}
