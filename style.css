@@ -1,3 +1,7 @@
+html {
+  height: 100%;
+}
+
 .wrapper {
   background-color: #5B7C9A;
   width: 100%;
@@ -8,6 +12,7 @@
   background-color: #475E7399;
   color: #333333;
   allign: center;
+  opacity: 0.6;
 }
 
 .body {
@@ -28,6 +33,8 @@
   width: 200px;
   position: fixed;
   allign: center;
+  margin: 100px;
+  
 }
 
 .nav a:hover {
