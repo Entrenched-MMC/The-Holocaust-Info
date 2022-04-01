@@ -1,5 +1,6 @@
 html {
   height: 100%;
+  width: 100%;
 }
 
 .wrapper {
@@ -19,7 +20,6 @@ html {
 }
 
 .mainBody {
-  margin-left: 200px;
   padding: 0px 10px;
   font-size: 15px;
 }
@@ -30,7 +30,33 @@ html {
 }
 
 .nav a {
-  
+  float: left;
+  font-size: 16px;
+  color: #ffffff;
+  text-allign: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropBoxMenu {
+  float: left;
+  overflow: hidden;
+}
+
+.dropBoxMenu .dropBtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: #ffffff;
+  padding: 14px 16px;
+  background-colo: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.nav a:hover .dropBoxMenu:hover .dropBtn {
+  color: #ffffff;
+  background-color: #000000;
 }
 
 .logo {
