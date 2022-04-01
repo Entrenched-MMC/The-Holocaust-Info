@@ -12,7 +12,6 @@ html {
   background-color: #475E7399;
   color: #333333;
   allign: center;
-  opacity: 0.6;
 }
 
 .body {
@@ -26,20 +25,12 @@ html {
 }
 
 .nav {
-  float: left;
-  allign: center;
-  font-size: 15px;
-  height: 100%;
-  width: 200px;
-  position: fixed;
-  allign: center;
-  margin: 100px;
-  
+  overflow: hidden;
+  background-color: #4c6b8799;
 }
 
-.nav a:hover {
-  color: #666666;
-  font-size: 20px;
+.nav a {
+  
 }
 
 .logo {
