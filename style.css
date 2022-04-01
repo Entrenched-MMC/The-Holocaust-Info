@@ -1,9 +1,7 @@
-html {
-  background-color: 7E93A5;
-}
-
 .wrapper {
   background-color: #5B7C9A;
+  width: 100000000;
+  height: 100000000;
 }
 
 .header {
@@ -12,11 +10,14 @@ html {
 }
 
 .body {
+  padding-left: 5px;
+  font-size: 12px;
 }
 
 .nav {
   float: left;
   allign: center;
+  font-size: 10px;
 }
 
 .logo {
