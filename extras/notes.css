@@ -1,9 +1,11 @@
 html {
+  height: 100%;
+  width: 100%;
+  background-color: #5B7C9A;
   color: 333333;
 }
 
 .wrapper {
-  background-color: #5B7C9A;
   width: 100%;
   height: 100%;
 }
