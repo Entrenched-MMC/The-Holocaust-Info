@@ -24,3 +24,7 @@ html {
   padding: 0px 10px;
   font-size: 15px;
 }
+
+.sideBody {
+  float: left;
+}
