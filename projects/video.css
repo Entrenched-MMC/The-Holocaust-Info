@@ -23,6 +23,7 @@ html {
 .sideBody {
   float: left;
   background-color: #5B7CA9;
+  height: 1000px;
 }
 
 .mainBody {
@@ -30,8 +31,6 @@ html {
   font-size: 15px;
   float: right;
   left-margin: 200px;
-}
-
-.video {
   background-color: #5B7CA9;
+  height: 1000px;
 }
