@@ -20,11 +20,12 @@ html {
   color: #333333;
 }
 
+.sideBody {
+  float: left;
+}
+
 .mainBody {
   padding: 0px 10px;
   font-size: 15px;
-}
-
-.sideBody {
-  float: left;
+  float: right;
 }
